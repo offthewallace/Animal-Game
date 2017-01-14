@@ -1,0 +1,11 @@
+5
+Does your animal live in water?
+1
+Is your animal a frog?
+0
+is my animal bark?
+3
+Is your animal an armadillo?
+2
+Is your animal a(n) dog?
+4

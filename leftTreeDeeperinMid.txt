@@ -1,0 +1,15 @@
+7
+Does your animal live in water?
+5
+is your animal eatable 
+1
+Is your animal a(n) fish?
+0
+is your animal looking bad 
+3
+Is your animal a(n) Seastar?
+2
+Is your animal a frog?
+4
+Is your animal an armadillo?
+6
