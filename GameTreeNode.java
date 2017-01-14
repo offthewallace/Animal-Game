@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package p4;
 
 /**
@@ -20,8 +16,6 @@ package p4;
  * the player answers "yes", while the right link should be followed if
  * they answer "no".
  *
- * @author	Lewis Barnett
- * @version	1.0, 6/20/2000
  */
 
 public class GameTreeNode {
